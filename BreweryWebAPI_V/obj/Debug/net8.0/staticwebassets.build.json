@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Vci9Zt7ESqprnnyd/U0r71bDrDm4fWzIB2VhSB7NDqc=",
+  "Source": "BreweryWebAPI_V",
+  "BasePath": "_content/BreweryWebAPI_V",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

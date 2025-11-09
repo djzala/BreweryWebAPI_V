@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BreweryWebAPI_V.props" />
+</Project>
